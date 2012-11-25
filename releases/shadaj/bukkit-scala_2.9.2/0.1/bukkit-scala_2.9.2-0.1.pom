@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>bukkit-scala</groupId>
+    <groupId>shadaj</groupId>
     <artifactId>bukkit-scala_2.9.2</artifactId>
     <packaging>jar</packaging>
     <description>bukkit-scala</description>
     <version>0.1</version>
     <name>bukkit-scala</name>
     <organization>
-        <name>bukkit-scala</name>
+        <name>shadaj</name>
     </organization>
     <dependencies>
         <dependency>
