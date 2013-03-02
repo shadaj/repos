@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>shadaj</groupId>
+    <artifactId>bukkit-scala_2.10</artifactId>
+    <packaging>jar</packaging>
+    <description>bukkit-scala</description>
+    <version>0.1</version>
+    <name>bukkit-scala</name>
+    <organization>
+        <name>shadaj</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.10.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit</groupId>
+            <artifactId>bukkit</artifactId>
+            <version>1.4.5-R0.2</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>Bukkitreleases</id>
+            <name>Bukkit releases</name>
+            <url>http://repo.bukkit.org/content/repositories/releases/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
